@@ -1,0 +1,39 @@
+{
+    "lista_di_cose_lavoro" : 
+        {
+            "Task_1" : "Mhd Kontrolle gemacht bei Milch Produkte 1",
+            "Task_2" : "Laden aufgesperrt 2 ",
+            "Task_3" : "Preise von Obst und Gemüse ausgerechnet 3",
+            "Task_4" : "Pakete an DPD Fahrer ubergeben 4",
+            "Task_5" : "Kasse bedient 5",
+            "Task_6" : "Laden sauber gemacht 6",
+            "Task_7" : "belloooooooot 7"
+        }
+    ,
+       
+    "lista_di_cose_scuola" : 
+        {
+            "prova_1" : "A scuola Gioco Moltissimo"
+        }
+        ,
+
+    "tema_scolastico" : {
+
+        "tema_1" : "Mhd kontrolle bei MIlch Produkte\nMopro ",
+        "tema_2" : "Laden aufgesperrt 2 ",
+        "tema_3" : "tema scolastico 3",
+        "tema_4" : "tema scolastico  4",
+        "tema_5" : "tema scolastico  5",
+        "tema_6" : "tema scolastico  6",
+        "tema_7" : "tema scolastico  7"
+        
+    }
+    
+}
+
+
+
+
+
+
+
